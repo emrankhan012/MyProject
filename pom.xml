@@ -2,11 +2,11 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>in.javahome</groupId>
-	<artifactId>myweb</artifactId>
+	<artifactId>myproject</artifactId>
 	<packaging>war</packaging>
 	<!-- Demo-->
 	<version>0.6.0-RELEASE</version>
-	<name>myweb Maven Webapp</name>
+	<name>myproject Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 
 	<dependencies>
@@ -45,7 +45,7 @@
 		</snapshotRepository>
   	</distributionManagement>
 	<build>
-		<finalName>myweb</finalName>
+		<finalName>myproject</finalName>
 		<plugins>
 		<!-- <plugin>
 			<groupId>org.jacoco</groupId>
